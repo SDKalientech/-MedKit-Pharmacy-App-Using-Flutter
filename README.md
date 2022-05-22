@@ -1,1 +1,0 @@
-# -MedKit-Pharmacy-App-Using-Flutter
